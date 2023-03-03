@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 c1.txt added through master branch
 =======
 c1.txt added through develop branch
->>>>>>> develop
+
