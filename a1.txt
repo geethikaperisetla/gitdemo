@@ -1,2 +1,2 @@
- some contents are
+ some contents
 Few more Contents
